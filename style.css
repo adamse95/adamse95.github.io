@@ -1,1 +1,6 @@
-html{color: #fff; background-color: #000;}
+@import url('https://fonts.googleapis.com/css?family=Nunito|Open+Sans');
+
+h1, h2, h3, h4, h5, h6{font-family: 'Nunito', sans-serif; color: #A9DAFF; background-color: inherit;}
+a{color: #1097FF; background-color: inherit;}
+html{color: #79C5FF; background-color: #003D6B; font-family: 'Open Sans', sans-serif;}
+.activePage{}
